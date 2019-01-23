@@ -1,6 +1,6 @@
 # Личный проект «Техномарт»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/24/user/970505).
+* Студент: [Зоя Лаукерт](https://up.htmlacademy.ru/htmlcss/24/user/970505).
 * Наставник: [Алим Нагоев](https://htmlacademy.ru/profile/id911531).
 
 ---
